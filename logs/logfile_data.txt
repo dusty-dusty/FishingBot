@@ -1,0 +1,244 @@
+LongSleep@Sun Sep 15 01:34:53 2019 info:59.55280389380094
+ForceDrop@Sun Sep 15 01:35:05 2019
+ForceDrop@Sun Sep 15 01:35:15 2019
+ForceDrop@Sun Sep 15 01:35:34 2019
+ForceDrop@Sun Sep 15 01:35:55 2019
+ForceDrop@Sun Sep 15 01:36:10 2019
+Long Sleep@Sun Sep 15 01:36:12 2019 length:1572
+
+ForceDrop@Sun Sep 15 01:40:03 2019
+ForceDrop@Sun Sep 15 01:41:23 2019
+ForceDrop@Sun Sep 15 01:43:31 2019
+ForceDrop@Sun Sep 15 01:47:04 2019
+LongSleep@Sun Sep 15 02:01:14 2019 info:47.25079633308072
+ForceDrop@Sun Sep 15 02:10:20 2019
+ForceDrop@Sun Sep 15 02:34:16 2019
+LongSleep@Sun Sep 15 02:42:38 2019 info:82.10356116443717
+LongSleep@Sun Sep 15 02:43:36 2019 info:50.656625546737594
+ForceDrop@Sun Sep 15 02:57:34 2019
+LongSleep@Sun Sep 15 03:21:20 2019 info:57.705450780285204
+LongSleep@Sun Sep 15 03:42:12 2019 info:46.39627831199703
+LongSleep@Sun Sep 15 03:42:58 2019 info:27.48734637846248
+Relogged@Sun Sep 15 03:44:11 2019
+ForceDrop@Sun Sep 15 03:53:13 2019
+LongSleep@Sun Sep 15 04:03:45 2019 info:77.21872094573392
+LongSleep@Sun Sep 15 04:23:29 2019 info:20.726698810837494
+LongSleep@Sun Sep 15 22:43:46 2019 info:7.749111909875296
+ForceDrop@Sun Sep 15 22:45:15 2019
+ForceDrop@Sun Sep 15 22:57:06 2019
+ForceDrop@Sun Sep 15 23:20:17 2019
+LongSleep@Sun Sep 15 23:33:09 2019 info:38.47354248443338
+ForceDrop@Sun Sep 15 23:40:31 2019
+ForceDrop@Sun Sep 15 23:43:05 2019
+Long Sleep@Sun Sep 15 23:47:01 2019 length:1129
+Long Sleep@Sun Sep 15 23:49:42 2019 length:1368
+Relogged@Sun Sep 15 23:56:20 2019
+ForceDrop@Mon Sep 16 00:05:33 2019
+LongSleep@Mon Sep 16 00:11:16 2019 info:54.15355178710366
+ForceDrop@Mon Sep 16 00:11:27 2019
+ClickPrompt@Mon Sep 16 00:20:59 2019
+ForceDrop@Mon Sep 16 00:33:25 2019
+ForceDrop@Mon Sep 16 00:35:06 2019
+ForceDrop@Mon Sep 16 00:37:06 2019
+Long Sleep@Mon Sep 16 00:45:36 2019 length:1225
+Relogged@Mon Sep 16 00:50:15 2019
+ForceDrop@Mon Sep 16 00:52:45 2019
+LongSleep@Mon Sep 16 00:57:46 2019 info:18.618003024330093
+Long Sleep@Mon Sep 16 01:06:25 2019 length:1225
+Relogged@Mon Sep 16 01:26:50 2019
+LongSleep@Mon Sep 16 01:35:43 2019 info:45.686700912190496
+LongSleep@Mon Sep 16 01:45:53 2019 info:52.21113054814018
+ForceDrop@Mon Sep 16 01:58:20 2019
+ClickPrompt@Mon Sep 16 02:09:12 2019
+ClickPrompt@Mon Sep 16 02:09:18 2019
+LongSleep@Mon Sep 16 02:19:21 2019 info:51.1199680354069
+Long Sleep@Mon Sep 16 02:23:52 2019 length:1180
+Relogged@Mon Sep 16 02:43:33 2019
+ForceDrop@Mon Sep 16 02:54:09 2019
+LongSleep@Mon Sep 16 03:14:24 2019 info:99.1017759222933
+LongSleep@Mon Sep 16 03:20:13 2019 info:71.43474411423551
+ForceDrop@Mon Sep 16 03:21:13 2019
+LongSleep@Mon Sep 16 03:25:34 2019 info:9.134690636556115
+ForceDrop@Mon Sep 16 03:39:25 2019
+LongSleep@Mon Sep 16 03:41:12 2019 info:21.419872447228503
+Long Sleep@Mon Sep 16 03:41:16 2019 length:949
+Relogged@Mon Sep 16 03:57:05 2019
+ForceDrop@Mon Sep 16 04:17:43 2019
+LongSleep@Mon Sep 16 04:41:51 2019 info:79.41505503994325
+LongSleep@Mon Sep 16 04:45:21 2019 info:12.946857459535755
+ForceDrop@Mon Sep 16 05:17:34 2019
+ForceDrop@Mon Sep 16 05:34:56 2019
+ForceDrop@Mon Sep 16 05:46:45 2019
+ForceDrop@Mon Sep 16 05:54:59 2019
+ForceDrop@Mon Sep 16 05:56:42 2019
+LongSleep@Mon Sep 16 06:03:15 2019 info:105.78601512749222
+ForceDrop@Mon Sep 16 06:28:37 2019
+LongSleep@Mon Sep 16 06:29:46 2019 info:61.08957951677512
+ForceDrop@Mon Sep 16 06:39:27 2019
+ForceDrop@Mon Sep 16 06:46:17 2019
+ForceDrop@Mon Sep 16 06:53:40 2019
+LongSleep@Mon Sep 16 08:51:17 2019 info:8.496285632277392
+Long Sleep@Mon Sep 16 08:59:39 2019 length:1557
+Relogged@Mon Sep 16 09:25:37 2019
+ForceDrop@Mon Sep 16 09:35:07 2019
+ForceDrop@Mon Sep 16 09:43:45 2019
+LongSleep@Mon Sep 16 09:51:04 2019 info:29.574210492153806
+ForceDrop@Mon Sep 16 09:52:06 2019
+ClickPrompt@Mon Sep 16 10:49:08 2019
+Relogged@Mon Sep 16 10:54:10 2019
+LongSleep@Mon Sep 16 11:05:20 2019 info:84.93173914143289
+ForceDrop@Mon Sep 16 11:09:15 2019
+ForceDrop@Mon Sep 16 11:15:16 2019
+LongSleep@Mon Sep 16 11:21:22 2019 info:63.63819194149754
+ForceDrop@Mon Sep 16 11:23:41 2019
+LongSleep@Mon Sep 16 11:32:28 2019 info:118.27268533237682
+ForceDrop@Mon Sep 16 11:47:39 2019
+LongSleep@Mon Sep 16 11:49:57 2019 info:86.03950115875595
+LongSleep@Mon Sep 16 11:53:40 2019 info:40.66548391395505
+ForceDrop@Mon Sep 16 11:53:42 2019
+LongSleep@Mon Sep 16 11:54:25 2019 info:25.725663961936615
+LongSleep@Mon Sep 16 11:56:16 2019 info:10.915038924598873
+LongSleep@Mon Sep 16 12:13:31 2019 info:37.624557965870764
+ForceDrop@Mon Sep 16 12:23:00 2019
+ForceDrop@Mon Sep 16 12:25:04 2019
+ForceDrop@Mon Sep 16 13:03:56 2019
+LongSleep@Mon Sep 16 13:07:39 2019 info:39.006305877969545
+LongSleep@Mon Sep 16 13:15:03 2019 info:90.64198877707224
+ForceDrop@Mon Sep 16 13:22:23 2019
+LongSleep@Mon Sep 16 13:47:35 2019 info:32.64315185580414
+LongSleep@Mon Sep 16 14:00:14 2019 info:92.77437062605924
+LongSleep@Mon Sep 16 14:17:20 2019 info:76.16541411264868
+ForceDrop@Mon Sep 16 14:18:10 2019
+LongSleep@Mon Sep 16 14:21:04 2019 info:90.22788134086647
+LongSleep@Mon Sep 16 14:24:06 2019 info:35.65923029022805
+Long Sleep@Mon Sep 16 14:24:08 2019 length:1347
+Relogged@Mon Sep 16 14:46:35 2019
+LongSleep@Mon Sep 16 15:01:28 2019 info:31.580272726066365
+ForceDrop@Mon Sep 16 15:06:54 2019
+ForceDrop@Mon Sep 16 15:26:07 2019
+LongSleep@Mon Sep 16 15:28:50 2019 info:3.484973129596087
+ForceDrop@Mon Sep 16 15:33:26 2019
+LongSleep@Mon Sep 16 16:08:57 2019 info:98.70060981063529
+ForceDrop@Mon Sep 16 16:12:05 2019
+LongSleep@Mon Sep 16 16:15:33 2019 info:48.345793380521755
+LongSleep@Mon Sep 16 17:51:44 2019 info:75.71108714118483
+ForceDrop@Mon Sep 16 17:56:12 2019
+LongSleep@Mon Sep 16 18:09:28 2019 info:119.89855499310147
+LongSleep@Mon Sep 16 18:10:32 2019 info:119.83584104960826
+LongSleep@Mon Sep 16 18:13:10 2019 info:81.45856106897519
+ClickPrompt@Mon Sep 16 18:28:50 2019
+ForceDrop@Mon Sep 16 19:13:16 2019
+ForceDrop@Mon Sep 16 19:18:24 2019
+ForceDrop@Mon Sep 16 20:05:37 2019
+ForceDrop@Mon Sep 16 20:25:38 2019
+LongSleep@Mon Sep 16 20:25:50 2019 info:41.398513336990284
+ClickPrompt@Tue Sep 17 23:16:34 2019
+ClickPrompt@Tue Sep 17 23:17:03 2019
+LongSleep@Tue Sep 17 23:19:45 2019 info:60.83335110078456
+LongSleep@Tue Sep 17 23:20:00 2019 info:64.31239958045408
+LongSleep@Tue Sep 17 23:21:44 2019 info:99.52845085246865
+LongSleep@Tue Sep 17 23:21:45 2019 info:12.612015034394165
+ForceDrop@Tue Sep 17 23:35:01 2019
+ForceDrop@Tue Sep 17 23:38:58 2019
+ForceDrop@Tue Sep 17 23:44:29 2019
+ForceDrop@Tue Sep 17 23:44:51 2019
+ForceDrop@Tue Sep 17 23:57:02 2019
+LongSleep@Wed Sep 18 00:05:20 2019 info:72.16959843182909
+LongSleep@Wed Sep 18 00:08:11 2019 info:39.56194252066807
+ForceDrop@Wed Sep 18 00:31:55 2019
+ForceDrop@Wed Sep 18 00:44:58 2019
+ForceDrop@Wed Sep 18 00:47:40 2019
+Relogged@Wed Sep 18 01:40:20 2019
+ForceDrop@Wed Sep 18 05:20:12 2019
+ForceDrop@Wed Sep 18 05:21:22 2019
+LongSleep@Wed Sep 18 05:22:29 2019 info:60.69716506123448
+LongSleep@Wed Sep 18 05:22:30 2019 info:68.01562318612388
+ForceDrop@Wed Sep 18 05:25:50 2019
+Long Sleep@Wed Sep 18 05:27:24 2019 length:1190
+LongSleep@Wed Sep 18 06:03:09 2019 info:6.53143716826755
+ForceDrop@Wed Sep 18 06:06:24 2019
+ClickPrompt@Wed Sep 18 06:09:38 2019
+Long Sleep@Wed Sep 18 06:22:28 2019 length:1739
+Relogged@Wed Sep 18 06:51:28 2019
+ForceDrop@Wed Sep 18 07:25:25 2019
+ClickPrompt@Wed Sep 18 07:49:21 2019
+ForceDrop@Wed Sep 18 07:51:57 2019
+ForceDrop@Wed Sep 18 08:23:34 2019
+LongSleep@Wed Sep 18 08:34:14 2019 info:60.47894192487633
+LongSleep@Wed Sep 18 08:44:58 2019 info:2.003550930229959
+ForceDrop@Wed Sep 18 08:46:20 2019
+ForceDrop@Wed Sep 18 09:02:32 2019
+ForceDrop@Wed Sep 18 09:16:43 2019
+LongSleep@Wed Sep 18 09:16:57 2019 info:71.06246779833941
+LongSleep@Wed Sep 18 09:34:48 2019 info:9.160871769726533
+ForceDrop@Wed Sep 18 09:34:50 2019
+ForceDrop@Wed Sep 18 09:39:24 2019
+LongSleep@Wed Sep 18 09:41:42 2019 info:6.807993748530236
+ForceDrop@Wed Sep 18 10:06:26 2019
+ForceDrop@Wed Sep 18 10:09:12 2019
+LongSleep@Wed Sep 18 10:09:17 2019 info:66.43211677392976
+LongSleep@Wed Sep 18 10:11:25 2019 info:55.91719692595414
+ForceDrop@Wed Sep 18 10:20:38 2019
+ForceDrop@Wed Sep 18 10:23:24 2019
+LongSleep@Wed Sep 18 10:42:30 2019 info:30.793424420470863
+LongSleep@Wed Sep 18 11:02:33 2019 info:5.651151612812898
+LongSleep@Wed Sep 18 11:08:12 2019 info:5.37298549949344
+ForceDrop@Wed Sep 18 11:10:33 2019
+ForceDrop@Wed Sep 18 11:13:07 2019
+LongSleep@Wed Sep 18 11:28:42 2019 info:61.47761570633814
+LongSleep@Wed Sep 18 11:30:36 2019 info:104.03852973415583
+LongSleep@Wed Sep 18 11:38:09 2019 info:25.789289414593807
+LongSleep@Wed Sep 18 11:50:33 2019 info:105.75430868010538
+ForceDrop@Wed Sep 18 12:09:25 2019
+ForceDrop@Wed Sep 18 12:12:20 2019
+ForceDrop@Wed Sep 18 12:24:23 2019
+ForceDrop@Wed Sep 18 12:45:23 2019
+ForceDrop@Wed Sep 18 12:46:31 2019
+ForceDrop@Wed Sep 18 12:50:20 2019
+LongSleep@Wed Sep 18 12:50:32 2019 info:66.81214141798162
+Relogged@Wed Sep 18 12:52:05 2019
+ForceDrop@Wed Sep 18 12:54:55 2019
+Long Sleep@Wed Sep 18 13:01:42 2019 length:1238
+Relogged@Wed Sep 18 13:22:20 2019
+LongSleep@Wed Sep 18 13:26:59 2019 info:33.14882571645794
+LongSleep@Wed Sep 18 13:39:02 2019 info:42.10067596379519
+ForceDrop@Wed Sep 18 13:53:44 2019
+LongSleep@Wed Sep 18 13:57:05 2019 info:54.2401498185715
+ForceDrop@Wed Sep 18 14:02:14 2019
+LongSleep@Wed Sep 18 14:08:15 2019 info:58.67078312172586
+LongSleep@Wed Sep 18 14:20:34 2019 info:102.30796440009159
+ForceDrop@Wed Sep 18 14:23:43 2019
+LongSleep@Wed Sep 18 14:37:01 2019 info:13.10479779958758
+ForceDrop@Wed Sep 18 14:52:21 2019
+ForceDrop@Wed Sep 18 14:55:48 2019
+ForceDrop@Wed Sep 18 15:14:24 2019
+ForceDrop@Wed Sep 18 23:31:07 2019
+ForceDrop@Wed Sep 18 23:49:52 2019
+LongSleep@Wed Sep 18 23:58:24 2019 info:27.091306140127497
+ForceDrop@Thu Sep 19 00:01:24 2019
+ForceDrop@Thu Sep 19 00:07:12 2019
+LongSleep@Thu Sep 19 00:13:53 2019 info:98.1421966250581
+ForceDrop@Thu Sep 19 00:15:06 2019
+LongSleep@Thu Sep 19 00:17:25 2019 info:99.19552338183483
+ForceDrop@Thu Sep 19 00:22:30 2019
+LongSleep@Thu Sep 19 00:24:50 2019 info:2.0686317664889886
+ClickPrompt@Thu Sep 19 00:28:41 2019
+ForceDrop@Thu Sep 19 00:36:11 2019
+LongSleep@Thu Sep 19 00:53:07 2019 info:65.689631881599
+ForceDrop@Thu Sep 19 01:03:30 2019
+LongSleep@Thu Sep 19 01:07:57 2019 info:68.74610023625907
+LongSleep@Thu Sep 19 01:10:20 2019 info:51.7009522596778
+ForceDrop@Thu Sep 19 01:23:06 2019
+LongSleep@Thu Sep 19 01:25:11 2019 info:27.592758735709268
+LongSleep@Thu Sep 19 01:27:38 2019 info:26.834463911650104
+LongSleep@Thu Sep 19 01:34:38 2019 info:76.13448546271373
+LongSleep@Thu Sep 19 01:45:00 2019 info:9.061875126132964
+ForceDrop@Thu Sep 19 01:57:17 2019
+LongSleep@Thu Sep 19 02:05:38 2019 info:95.61905364332344
+LongSleep@Thu Sep 19 02:05:39 2019 info:95.3840927071221
+Long Sleep@Thu Sep 19 02:31:09 2019 length:1250
+ForceDrop@Thu Sep 19 02:38:27 2019
+LongSleep@Thu Sep 19 02:55:52 2019 info:80.39989489577977
+Long Sleep@Thu Sep 19 02:55:55 2019 length:1770
+Relogged@Thu Sep 19 03:25:23 2019
+LongSleep@Wed Sep 25 22:55:35 2019 info:43.25247415798204

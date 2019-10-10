@@ -1,0 +1,90 @@
+ERROR(timeInputer) @Fri Sep 13 23:07:27 2019  Info invalid literal for int() with base 10: 'dada'
+ERROR(timeInputer) @Fri Sep 13 23:07:27 2019  Info invalid literal for int() with base 10: 'ada'
+ERROR(imageFind()) @Wed Sep 11 23:57:38 2019  img:dropicon.png Info OpenCV(4.1.0) C:\projects\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:589: error: (-215:Assertion failed) corrsize.height <= img.rows + templ.rows - 1 && corrsize.width <= img.cols + templ.cols - 1 in function 'cv::crossCorr'
+ERROR(imageFind()) @Wed Sep 11 23:57:56 2019  img:image/dropicon.png Info OpenCV(4.1.0) C:\projects\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:589: error: (-215:Assertion failed) corrsize.height <= img.rows + templ.rows - 1 && corrsize.width <= img.cols + templ.cols - 1 in function 'cv::crossCorr'
+ERROR(RanInt @Fri Sep 13 18:39:30 2019  Info empty range for randrange() (6,6, 0)
+ERROR(imageFind()) @Fri Sep 13 22:09:11 2019  img:dropicon.png Info OpenCV(4.1.0) C:\projects\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:589: error: (-215:Assertion failed) corrsize.height <= img.rows + templ.rows - 1 && corrsize.width <= img.cols + templ.cols - 1 in function 'cv::crossCorr'
+ERROR(imageFind()) @Fri Sep 13 22:09:33 2019  img:dropicon.png Info OpenCV(4.1.0) C:\projects\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:589: error: (-215:Assertion failed) corrsize.height <= img.rows + templ.rows - 1 && corrsize.width <= img.cols + templ.cols - 1 in function 'cv::crossCorr'
+ERROR(imageFind()) @Fri Sep 13 22:09:33 2019  img:dropicon.png Info OpenCV(4.1.0) C:\projects\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:589: error: (-215:Assertion failed) corrsize.height <= img.rows + templ.rows - 1 && corrsize.width <= img.cols + templ.cols - 1 in function 'cv::crossCorr'
+ERROR(imageFind()) @Fri Sep 13 22:09:33 2019  img:dropicon.png Info OpenCV(4.1.0) C:\projects\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:589: error: (-215:Assertion failed) corrsize.height <= img.rows + templ.rows - 1 && corrsize.width <= img.cols + templ.cols - 1 in function 'cv::crossCorr'
+ERROR(imageFind()) @Fri Sep 13 22:09:33 2019  img:dropicon.png Info OpenCV(4.1.0) C:\projects\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:589: error: (-215:Assertion failed) corrsize.height <= img.rows + templ.rows - 1 && corrsize.width <= img.cols + templ.cols - 1 in function 'cv::crossCorr'
+ERROR(imageFind()) @Fri Sep 13 22:09:33 2019  img:dropicon.png Info OpenCV(4.1.0) C:\projects\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:589: error: (-215:Assertion failed) corrsize.height <= img.rows + templ.rows - 1 && corrsize.width <= img.cols + templ.cols - 1 in function 'cv::crossCorr'
+ERROR(imageFind()) @Fri Sep 13 22:09:33 2019  img:dropicon.png Info OpenCV(4.1.0) C:\projects\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:589: error: (-215:Assertion failed) corrsize.height <= img.rows + templ.rows - 1 && corrsize.width <= img.cols + templ.cols - 1 in function 'cv::crossCorr'
+ERROR(imageFind()) @Fri Sep 13 22:09:33 2019  img:dropicon.png Info OpenCV(4.1.0) C:\projects\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:589: error: (-215:Assertion failed) corrsize.height <= img.rows + templ.rows - 1 && corrsize.width <= img.cols + templ.cols - 1 in function 'cv::crossCorr'
+ERROR(imageFind()) @Fri Sep 13 22:09:33 2019  img:dropicon.png Info OpenCV(4.1.0) C:\projects\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:589: error: (-215:Assertion failed) corrsize.height <= img.rows + templ.rows - 1 && corrsize.width <= img.cols + templ.cols - 1 in function 'cv::crossCorr'
+ERROR(imageFind()) @Fri Sep 13 22:10:03 2019  img:dropicon.png Info OpenCV(4.1.0) C:\projects\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:589: error: (-215:Assertion failed) corrsize.height <= img.rows + templ.rows - 1 && corrsize.width <= img.cols + templ.cols - 1 in function 'cv::crossCorr'ERROR(timeInputer) @Fri Sep 13 23:51:47 2019  Info invalid literal for int() with base 10: '300\\'
+ERROR(imageFind()) @Fri Sep 13 23:52:35 2019  img:images/f22.png Info OpenCV(4.1.0) C:\projects\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:589: error: (-215:Assertion failed) corrsize.height <= img.rows + templ.rows - 1 && corrsize.width <= img.cols + templ.cols - 1 in function 'cv::crossCorr'
+ERROR(imageFind()) @Sat Sep 14 00:26:41 2019  img:images/f21.pngimages/f22.png Info OpenCV(4.1.0) C:\projects\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:589: error: (-215:Assertion failed) corrsize.height <= img.rows + templ.rows - 1 && corrsize.width <= img.cols + templ.cols - 1 in function 'cv::crossCorr'
+ERROR(imageFind()) @Sat Sep 14 00:27:32 2019  img:images/f21.png Info OpenCV(4.1.0) C:\projects\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:589: error: (-215:Assertion failed) corrsize.height <= img.rows + templ.rows - 1 && corrsize.width <= img.cols + templ.cols - 1 in function 'cv::crossCorr'
+ERROR(imageFind()) @Sat Sep 14 00:28:15 2019  img:images/f27.png Info OpenCV(4.1.0) C:\projects\opencv-python\opencv\modules\imgproc\src\templmatch.cpp:589: error: (-215:Assertion failed) corrsize.height <= img.rows + templ.rows - 1 && corrsize.width <= img.cols + templ.cols - 1 in function 'cv::crossCorr'
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(stopAll) @Sat Sep 14 01:19:39 2019  Info name 'totalTime' is not defined
+ERROR(timeInputer) @Sat Sep 14 01:23:42 2019  Info invalid literal for int() with base 10: '300-'
+ERROR(timeInputer) @Sat Sep 14 01:59:52 2019  Info invalid literal for int() with base 10: 'dad'
+ERROR(timeInputer) @Sat Sep 14 01:59:58 2019  Info invalid literal for int() with base 10: ']]]]]]333'
+ERROR(timeInputer) @Wed Sep 18 06:00:14 2019  Info invalid literal for int() with base 10: '653\\'
